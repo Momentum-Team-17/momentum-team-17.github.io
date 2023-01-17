@@ -18,7 +18,7 @@ tags: phase-1 orientation command-line git github
 2. Read the [student guidelines](https://github.com/momentumlearn/student-resources/blob/main/articles/student-guidelines.md) and [how we work remotely](https://github.com/momentumlearn/student-resources/blob/master/articles/working-remotely.md) docs in their entirety.
 3. Make sure your computer is set up and ready to go (links to instructions are below in 🔖 **Resources**).
 4. Read the [Really friendly command-line intro](https://drive.google.com/file/d/1InprtneRusVS6AeF5XU-SzYc-ExbRWMf/view?usp=sharing).
-5. Read the [Really friendly Git intro](https://drive.google.com/open?id=125rubyTQpBwmpi6I_UzUWfT1aXeHmy5n).
+5. Read the [Really friendly Git intro](https://drive.google.com/file/d/1r7S30B0buECmHBanjFmTf98sYU71tI97/view?usp=sharing).
 6. Complete the GitHub tutorial (below) and [submit this form when you are done](https://forms.gle/81WPdhk99yuDNHdx6).
 
 ## 💻 Today's Project: GitHub tutorial
