@@ -23,7 +23,7 @@ tags: phase-1 orientation command-line git github
 
 ## 💻 Today's Project: GitHub tutorial
 
-[link]https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+[link](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
 - NOTE: In the industry, `main` has replaced `master` as the convention for referring to the primary branch. Instructions in your setup set your default branch to `main`. When referring to this and any other Git-related documentation, replace `master` with `main`.
 - [Submit the link to your pull request url using this form](https://forms.gle/81WPdhk99yuDNHdx6).
