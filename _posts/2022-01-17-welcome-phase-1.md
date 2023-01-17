@@ -38,7 +38,6 @@ tags: phase-1 orientation command-line git github
 - [Momentum Slack guidelines](https://docs.google.com/document/d/1updvgMnO2xAAfP46oW__d3-nhv4hPodW7WvxKWX87JA/edit)
 - [Setting up your computer - Apple M1](https://www.notion.so/momentumlearn/Computer-Set-up-Instructions-M1-ec1d2bca911a467a97655127390e8209)
 - [Setting up your computer - Intel](https://www.notion.so/momentumlearn/Computer-Set-up-Instructions-Intel-2e0afcab98d14153b8d41160b0e93e11)
--
 
 ### Command Line & Git References
 
