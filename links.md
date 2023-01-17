@@ -12,8 +12,8 @@ layout: default
 
 ## GitHub
 
-- [Class GitHub organization](https://github.com/momentum-team-16) -- all your assignment repos are located here
-- [Notes/slides from class](https://github.com/momentum-team-16/notes)
+- [Class GitHub organization](https://github.com/momentum-team-17) -- all your assignment repos are located here
+- [Notes/slides from class](https://github.com/momentum-team-17/notes)
 
 ## General References
 
