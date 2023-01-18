@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to your first day of class
+title: Welcome to your second day of class
 tags: phase-1 orientation command-line git github
 ---
 
