@@ -25,7 +25,7 @@ tags: phase-1 orientation command-line git github
 
 ### UPDATE: do the steps in this order ➡️
 
-1, 6, 5, 2, 3 (the first line is the action), 4, 7
+1, 6, 5, 2, 3 (the first line is the action), 4, 7, 8, 9, 10
 
 [link](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 

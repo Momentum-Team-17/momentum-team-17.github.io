@@ -23,7 +23,7 @@ Complete the [Free Code Camp intro HTML cat photo tutorial](https://www.freecode
 ### If you want to re-visit the GitHub tutorial
 
 Steps go in this order.
-1, 6, 5, 2, 3 (the first line is the action), 4, 7
+1, 6, 5, 2, 3 (the first line is the action), 4, 7, 8, 9, 10
 
 [link](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
