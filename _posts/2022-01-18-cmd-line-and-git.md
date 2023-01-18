@@ -20,6 +20,13 @@ tags: phase-1 orientation command-line git github
 
 Complete the [Free Code Camp intro HTML cat photo tutorial](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-1)
 
+### If you want to re-visit the GitHub tutorial
+
+Steps go in this order.
+1, 6, 5, 2, 3 (the first line is the action), 4, 7
+
+[link](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+
 ### Command Line & Git References
 
 - [Really friendly command-line intro](https://drive.google.com/file/d/1InprtneRusVS6AeF5XU-SzYc-ExbRWMf/view?usp=sharing)
@@ -32,3 +39,4 @@ Complete the [Free Code Camp intro HTML cat photo tutorial](https://www.freecode
 
 - [command line notes](https://github.com/Momentum-Team-17/notes/blob/main/command-line.md)
 - [git notes](https://github.com/Momentum-Team-17/notes/blob/main/git.md)
+- - [HTML for tomorrow](https://github.com/Momentum-Team-17/notes/blob/main/html.md)
