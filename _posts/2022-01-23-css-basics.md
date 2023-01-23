@@ -4,6 +4,10 @@ title: "CSS: The Basics"
 tags: phase-1 css
 ---
 
+## Overview of Phase
+
+![](assets/img/Phase1.jpg)
+
 ## 🗓️ Today's topics
 
 - Styling HTML with CSS
