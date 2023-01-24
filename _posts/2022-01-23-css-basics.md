@@ -55,4 +55,4 @@ tags: phase-1 css
 ## 🦉 Code & Notes
 
 - [CSS Basics notes](https://github.com/Momentum-Team-17/notes/blob/main/css-basics.md)
-- [Code pen example from class: Music We Like]()
+- [Code pen CSS basics example from class](https://codepen.io/rlconley/pen/dyjdggE)
