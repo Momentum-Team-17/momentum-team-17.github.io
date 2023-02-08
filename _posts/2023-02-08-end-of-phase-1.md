@@ -9,7 +9,7 @@ tags: phase-1 javascript js debugging console errors exceptions
 - End of phase video requirements
 - Practice with Exercism
 
-## 📹 End of Phase Presentation Video
+## 🎙️ End of Phase Presentation
 
 - No class on Thursday morning, so you can work on your presentations.
 - Presentation during regular afternoon session time, 2pm, in classroom Zoom.
