@@ -20,14 +20,14 @@ tags: phase-1 javascript js debugging console errors exceptions
 - You cannot explain how your code works.
 - You do not turn in a video.
 
-Each of you will present on either myTunes, Customer Database, or Calculator. The video should be 4-5 minutes long, and no longer. You should choose a piece of the code to walk through and explain using the concepts we covered during Phase 1. You might choose:
+Each of you will present on either myTunes, Customer Database, or Calculator. The presentation should be 4-5 minutes long, and no longer. You should choose a piece of the code to walk through and explain using the concepts we covered during Phase 1. You might choose:
 
 - Code that was challenging to figure out
 - Code that you were excited about
 
 Your target audience is a brand new Momentum student who is just at the beginning of Phase 1. Imagine you are teaching them how to do what you’ve done in this project. Give them the benefit of your experience over these past several weeks.
 
-This video does not have to be polished, scripted, or edited. But your viewer should be able to follow what you’re saying and understand the points you are making.
+This presentation does not have to be extremely polished. But your audience should be able to follow what you’re saying and understand the points you are making and see the illustrations in your code.
 
 [Suggestions and Examples for Presentations]({% link technical-presentations.md %})
 
