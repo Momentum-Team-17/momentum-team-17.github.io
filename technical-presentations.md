@@ -4,13 +4,13 @@ permalink: /presentations/
 layout: default
 ---
 
-# Team Eleven Technical Presentations
+# Team Seventeen Technical Presentations
 
-- Phase 1: _Thursday, Sept 29_ End of Day (EOD)
+- Phase 1: _Thursday, Feb 7,_ 2PM (regular afternoon session time, no morning session)
 
 Each student will give a short technical talk about a JavaScript project that they worked on during the previous weeks of the phase.
 
-The talk should be 4 minutes long. You will record the screen and your talking along with it using a tool like [Loom](https://www.loom.com/download). It will be like a recorded version of the kind of presentation that group spokespeople gave on Monday, walking through code and talking about it.
+The talk should be 4 minutes long. You will present to your classmates and instructor.
 
 The goals of this presentation are:
 
@@ -38,7 +38,7 @@ Choose a project that you've done that shows what you learned during the phase.
 1. Explain what the project is. Show it briefly from the user perspective first. What does it do? Tell us about it in plain language (1 min or less).
 2. Pick ONE aspect of the project to discuss in more detail (3 min or more) and tell us about the code you wrote to make it work. Please focus on one section of the code and walk us through what it does.
 
-  Some things we'd like to hear you talk about:
+Some things we'd like to hear you talk about:
 
 - What does this specific code do?
 - How does this part of the code work?
