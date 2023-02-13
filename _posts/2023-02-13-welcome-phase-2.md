@@ -23,6 +23,8 @@ Welcome to Phase 2, where we'll be learning about back end development. The over
 In class and for homework, we will work on the exercises from Google's Python course.
 
 - [Link](https://classroom.github.com/a/ZQpTyX8s) to accept assignment
+- Goal for Tuesday morning:
+  - complete the exercises in `string1.py` and `string2.py` in the `basic` directory.
 
 ## 🔖 Reference Material
 
