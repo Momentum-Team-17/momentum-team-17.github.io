@@ -31,4 +31,5 @@ Word Frequency
 
 ## 🦉 Code & Notes
 
-- [Notes: Intro to Python](https://github.com/momentum-team-16/notes/blob/main/py-collections.md)
+- [Notes: Intro to Python](https://github.com/momentum-team-17/notes/blob/main/py-collections.md)
+- [Code examples from class](https://github.com/Momentum-Team-17/examples-python)
