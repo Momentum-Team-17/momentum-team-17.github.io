@@ -27,4 +27,4 @@ Continue working on Google problems
 
 ## 🦉 Code & Notes
 
-- [Notes: Intro to Python](https://github.com/momentum-team-16/notes/blob/main/py-collections.md)
+- [Notes: Collections in Python](https://github.com/momentum-team-17/notes/blob/main/py-collections.md)
