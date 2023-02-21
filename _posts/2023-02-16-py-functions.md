@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🐍 Collections in Python! 🐍
+title: 🐍 Functions in Python 🐍
 tags: phase-2 python
 ---
 
